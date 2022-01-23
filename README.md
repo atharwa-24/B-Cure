@@ -17,6 +17,8 @@ With the help of This system, health care professionals can now screen low-risk 
 
 The main focus of this solution is the CNN  deep learning model which classifies the benign, malignant, and normal classes of breast cancer by screening the mammograms. We have also created a prototype application in Figma to show how the model could be implemented and help the physicians/healthcare workers in real-life scenarios.
 
+[Database used](http://peipa.essex.ac.uk/info/mias.html)
+
 ## Challenges we ran into
 
 In such a short period of time, we were able to complete the prototype and conduct research on the various forms and severity levels of breast cancer.
